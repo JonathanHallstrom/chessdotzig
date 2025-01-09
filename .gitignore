@@ -1,0 +1,6 @@
+# macOS adds these everywhere
+.DS_Store
+
+# standard piece of non-version-controlled text in my projects
+/local-info.txt
+
