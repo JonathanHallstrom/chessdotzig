@@ -61,7 +61,7 @@ pub const Board = struct {
 	halfmove: u8,
 	fullmove: u16,
 	
-	pub const n_pieces = 8;
+	pub const n_pieces = 6;
 	pub const n_sides = 2;
 	pub const Piece = enum {
 		king, queen, rook, bishop, knight, pawn
